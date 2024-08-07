@@ -1,4 +1,4 @@
-# Lithium Nuker V2
+# Xercan Nuker
 
 ## Support
 There is no more support for this. This is going open-sourced, so you can do it yourself to how you want.
@@ -6,24 +6,14 @@ There is no more support for this. This is going open-sourced, so you can do it 
 ## Pull requests
 Feel free to submit pull requests
 
-## Previews
-![Fullscreen](https://github.com/verlox/Lithium-Nuker-2/blob/master/Previews/preview.png)
-![Banning](https://github.com/verlox/Lithium-Nuker-2/blob/master/Previews/banning.gif)
-
 ## About
 This nuker is the fastest discord server nuker made in C#
 
 ## Release reason
-The reason Lithium is going public is because I (verlox) believe that the nuking community is pure cancer, not in the sense of toxicity, but in the amount of skids. The average IQ of the nuking community is at about tiktok liberal levels. So fuck skids, I'm dippin.
+The client stays for a private circle
 
-## "Lithium is malware/logger!"
-Check the code. Lithium has never had any loggers or malware. I have no reason to put it in and will never include any type of malware in my projects. Please gather proof before accusing people.
-
-## Dependencies
-* [Veylib](https://github.com/verlox/Veylib2) - Main UI
-* [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json/) - Response parsing
 
 ## Credits
-* verlox - Main Developer
-* Russian Heavy - Developer
-![image](https://user-images.githubusercontent.com/120887075/229191676-14b672fa-7ba7-4e80-a1c2-88115adff404.png) 
+* gatix Xercan - Main Developer
+![image](https://cdn.discordapp.com/attachments/1083127073759043625/1270879461079777280/IMG_5524.jpg?ex=66b54e3b&is=66b3fcbb&hm=db18fda959babce8d0961539d7475c1dbbdf9e86f052828d5a5c7282a7966eec&
+) 
